@@ -12,3 +12,6 @@ permalink: /lecture_series/
 * Lecture 6: Linear (matrix) systems II.
 * Lecture 7: Linear (matrix) systems III.
 * Lecture 8: Revision exercises
+
+
+Back to main page: [https://matt-piggott.github.io/Numerical-methods-undergraduate/](https://matt-piggott.github.io/Numerical-methods-undergraduate/)

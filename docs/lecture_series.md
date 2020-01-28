@@ -1,3 +1,8 @@
+---
+title: Lecture series
+permalink: /lecture_series/
+---
+
 * Lecture 1: Interpolation and curve fitting.
 [View lecture](https://notebooks.azure.com/nbarral/libraries/nm1-1)
 * Lecture 2 (22-Jan-2018): Numerical differentiation.

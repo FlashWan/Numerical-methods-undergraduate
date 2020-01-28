@@ -1,5 +1,5 @@
 This is a 2<sup>nd</sup> year undergraduate course for geoscientists taught by [Matthew Piggott](http://www.imperial.ac.uk/people/m.d.piggott) 
-It is designed to be a first introduction to numerical methods. The [Introduction to Programming for Geoscientists course](http://ggorman.github.io/Introduction-to-programming-for-geoscientists/) is a prerequisite to taking this course. You can always click on the [lecture series](http://https://matt-piggott.github.io/Numerical-methods-undergraduate/lecture_series/) to get a complete overview of the topics covered and lecture schedule.
+It is designed to be a first introduction to numerical methods. The [Introduction to Programming for Geoscientists course](http://ggorman.github.io/Introduction-to-programming-for-geoscientists/) is a prerequisite to taking this course. You can always click on the [lecture series](http://matt-piggott.github.io/Numerical-methods-undergraduate/lecture_series/) to get a complete overview of the topics covered and lecture schedule.
 
 You will learn numerical methods by **doing**. Each lecture will cover:
 
@@ -7,6 +7,9 @@ You will learn numerical methods by **doing**. Each lecture will cover:
 * implementation exercises to help understand the theory,
 * programming exercises where you will use Python libraries to apply the methods.
 
+### Link to lectures
+
+For an up to date list of links to the lecture and associated material click here: [lecture series](http://matt-piggott.github.io/Numerical-methods-undergraduate/lecture_series/)
 
 ### Jupyer notebook
 

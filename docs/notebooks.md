@@ -12,7 +12,7 @@ To run and edit the notebooks yourselves we have two options:
 
 To run the notebooks on the cloud we will be using Micosoft's Azure cloud computing service. For information on this click [here]((https://azure.microsoft.com/en-gb/overview/what-is-azure/))
 
-To login you can either click on the lik to my notebook from the [lecture series](http://matt-piggott.github.io/Numerical-methods-undergraduate/lecture_series/) page. Otherwise you can login to your account at [https://notebooks.azure.com/](https://notebooks.azure.com/). Use your College login credentials (i.e. username@ic.ac.uk).
+To login you can either click on the link to my notebook from the [lecture series](http://matt-piggott.github.io/Numerical-methods-undergraduate/lecture_series/) page. Otherwise you can login to your account at [https://notebooks.azure.com/](https://notebooks.azure.com/). Use your College login credentials (i.e. username@ic.ac.uk).
 
 To get your own working copy of my files right click on my project corresponding to the lecture number and choose 'clone'. It's up to you but I suggest you keep this provate and uncheck the 'public library' button.
 

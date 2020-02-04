@@ -19,7 +19,7 @@ For an up to date list of links to the lecture and associated material click her
 Your year 1 [Introduction to Programming for Geoscientists module](http://ggorman.github.io/Introduction-to-programming-for-geoscientists/) is a prerequisite to taking this course. Please refer back to this to remind yourself of introductory information on Python.
 
 
-### Jupyer notebook
+### Jupyter notebook
 
 The lectures notes are written in [Jupyter notebook](https://jupyter.org/). This is a web-based interactive computational environment where you can combine code execution, text, mathematics, plots etc into a single document. 
 

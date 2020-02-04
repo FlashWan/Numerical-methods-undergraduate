@@ -1,4 +1,3 @@
- 
 ---
 title: notebooks
 permalink: /notebooks/

@@ -3,6 +3,12 @@ title: Lecture series
 permalink: /lecture_series/
 ---
 
+If you want to see, and clone, the directories you should see all the lectures at my 'My Projects' page:
+[https://notebooks.azure.com/Matt-Piggott/projects](https://notebooks.azure.com/Matt-Piggott/projects).
+
+
+To view individual lectures:
+
 * Lecture 1: Interpolation and curve fitting.
 [View lecture on Azure](https://notebooks.azure.com/Matt-Piggott/projects/numerical-methods-lecture-1)
 * Lecture 2: Numerical differentiation.

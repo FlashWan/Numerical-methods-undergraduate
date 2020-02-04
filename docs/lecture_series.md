@@ -6,6 +6,8 @@ permalink: /lecture_series/
 If you want to see, and clone, the directories you should see all the lectures at my 'My Projects' page:
 [https://notebooks.azure.com/Matt-Piggott/projects](https://notebooks.azure.com/Matt-Piggott/projects).
 
+You can then right click and 'clone'.
+
 
 To view individual lectures:
 

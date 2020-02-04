@@ -23,7 +23,7 @@ Your year 1 [Introduction to Programming for Geoscientists module](http://ggorma
 
 The lectures notes are written in [Jupyter notebook](https://jupyter.org/). This is a web-based interactive computational environment where you can combine code execution, text, mathematics, plots and rich media into a single document. 
 
-You used these in previous modules, but for a reminder what to do see: [notebooks](http://matt-piggott.github.io/Numerical-methods-undergraduate/lecture_series/).
+You used these in previous modules, but for a reminder what to do see: [notebooks](http://matt-piggott.github.io/Numerical-methods-undergraduate/notebooks/).
 
 
 ### Supplementary material

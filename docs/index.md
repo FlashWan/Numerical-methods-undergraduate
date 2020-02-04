@@ -3,7 +3,7 @@ It is designed to be a first introduction to numerical methods.
 
 Each lecture will cover:
 
-* some introductory mathemtics/theory underlying the numerical methods
+* some introductory mathematics/theory underlying the numerical methods
 * implementation exercises to help understand the theory
 * programming exercises where we will implement algorithms from scratch ourselves
 * examples of how Python libraries can be used to apply the methods we cover
@@ -21,9 +21,9 @@ Your year 1 [Introduction to Programming for Geoscientists module](http://ggorma
 
 ### Jupyer notebook
 
-The lectures notes are written in [Jupyter notebook](https://jupyter.org/). This is a web-based interactive computational environment where you can combine code execution, text, mathematics, plots and rich media into a single document. 
+The lectures notes are written in [Jupyter notebook](https://jupyter.org/). This is a web-based interactive computational environment where you can combine code execution, text, mathematics, plots etc into a single document. 
 
-You used these in previous modules, but for a reminder what to do see: [notebooks](http://matt-piggott.github.io/Numerical-methods-undergraduate/notebooks/).
+You used these in previous modules, but for a reminder see: [notebooks](http://matt-piggott.github.io/Numerical-methods-undergraduate/notebooks/).
 
 
 ### Supplementary material

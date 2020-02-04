@@ -1,19 +1,30 @@
-This is a 2<sup>nd</sup> year undergraduate course for geoscientists taught by [Matthew Piggott](http://www.imperial.ac.uk/people/m.d.piggott) 
-It is designed to be a first introduction to numerical methods. The [Introduction to Programming for Geoscientists course](http://ggorman.github.io/Introduction-to-programming-for-geoscientists/) is a prerequisite to taking this course. You can always click on the [lecture series](http://matt-piggott.github.io/Numerical-methods-undergraduate/lecture_series/) to get a complete overview of the topics covered and lecture schedule.
+This is a 2<sup>nd</sup> year undergraduate course for geoscientists taught by [Matthew Piggott](http://www.imperial.ac.uk/people/m.d.piggott).
+It is designed to be a first introduction to numerical methods. 
 
-You will learn numerical methods by **doing**. Each lecture will cover:
+Each lecture will cover:
 
-* theory underlying the numerical methods,
-* implementation exercises to help understand the theory,
-* programming exercises where you will use Python libraries to apply the methods.
+* some introductory mathemtics/theory underlying the numerical methods
+* implementation exercises to help understand the theory
+* programming exercises where we will implement algorithms from scratch ourselves
+* examples of how Python libraries can be used to apply the methods we cover
+
 
 ### Link to lectures
 
-For an up to date list of links to the lecture and associated material click here: [lecture series](http://matt-piggott.github.io/Numerical-methods-undergraduate/lecture_series/)
+For an up to date list of links to the lecture and associated material click here: [lecture series](http://matt-piggott.github.io/Numerical-methods-undergraduate/lecture_series/).
+
+
+### Python
+
+Your year 1 [Introduction to Programming for Geoscientists module](http://ggorman.github.io/Introduction-to-programming-for-geoscientists/) is a prerequisite to taking this course. Please refer back to this to remind yourself of introductory information on Python.
+
 
 ### Jupyer notebook
 
-The lectures notes are written in [Jupyter notebook](https://jupyter.org/). This is a web-based interactive computational environment where you can combine code execution, text, mathematics, plots and rich media into a single document. You can refer back to the [previous lecture series](http://ggorman.github.io/Introduction-to-programming-for-geoscientists/) for a reminder on how to get started with Jupyternotebook. In particular recall the introductory information given in [lecture 1](http://ggorman.github.io/Introduction-to-programming-for-geoscientists/lecture/notes/2018/10/18/Lecture1.html).
+The lectures notes are written in [Jupyter notebook](https://jupyter.org/). This is a web-based interactive computational environment where you can combine code execution, text, mathematics, plots and rich media into a single document. 
+
+You used these in previous modules, but for a reminder what to do see: [notebooks](http://matt-piggott.github.io/Numerical-methods-undergraduate/lecture_series/).
+
 
 ### Supplementary material
 

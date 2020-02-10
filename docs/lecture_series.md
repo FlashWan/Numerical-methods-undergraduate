@@ -14,6 +14,7 @@ To view individual lectures:
 * Lecture 1: Interpolation and curve fitting.
 [View lecture on Azure](https://notebooks.azure.com/Matt-Piggott/projects/numerical-methods-lecture-1)
 * Lecture 2: Numerical differentiation.
+[View lecture on Azure](https://notebooks.azure.com/Matt-Piggott/projects/numerical-methods-lecture-2)
 * Lecture 3: Numerical integration.
 * Lecture 4: Roots of equations.
 * Lecture 5: Linear (matrix) systems I.

@@ -16,6 +16,7 @@ To view individual lectures:
 * Lecture 2: Numerical differentiation.
 [View lecture on Azure](https://notebooks.azure.com/Matt-Piggott/projects/numerical-methods-lecture-2)
 * Lecture 3: Numerical integration.
+[View lecture on Azure](https://notebooks.azure.com/Matt-Piggott/projects/numerical-methods-lecture-3)
 * Lecture 4: Roots of equations.
 * Lecture 5: Linear (matrix) systems I.
 * Lecture 6: Linear (matrix) systems II.

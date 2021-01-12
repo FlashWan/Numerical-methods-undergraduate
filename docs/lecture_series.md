@@ -3,25 +3,28 @@ title: Lecture series
 permalink: /lecture_series/
 ---
 
-If you want to see, and clone, the directories you should see all the lectures at my 'My Projects' page:
-[https://notebooks.azure.com/Matt-Piggott/projects](https://notebooks.azure.com/Matt-Piggott/projects).
-
-You can then right click and 'clone'.
+The GitHub link to this modules lecture material can be found here:
+[https://github.com/matt-piggott/Numerical-methods-undergraduate](https://github.com/matt-piggott/Numerical-methods-undergraduate).
 
 
 To view individual lectures:
 
 * Lecture 1: Interpolation and curve fitting.
-[View lecture on Azure](https://notebooks.azure.com/Matt-Piggott/projects/numerical-methods-lecture-1)
+[View lecture](https://)
 * Lecture 2: Numerical differentiation.
-[View lecture on Azure](https://notebooks.azure.com/Matt-Piggott/projects/numerical-methods-lecture-2)
+[View lecture](https://)
 * Lecture 3: Numerical integration.
-[View lecture on Azure](https://notebooks.azure.com/Matt-Piggott/projects/numerical-methods-lecture-3)
+[View lecture](https://)
 * Lecture 4: Roots of equations.
+[View lecture](https://)
 * Lecture 5: Linear (matrix) systems I.
+[View lecture](https://)
 * Lecture 6: Linear (matrix) systems II.
+[View lecture](https://)
 * Lecture 7: Linear (matrix) systems III.
+[View lecture](https://)
 * Lecture 8: Revision exercises
+[View lecture](https://)
 
 
 Back to main page: [https://matt-piggott.github.io/Numerical-methods-undergraduate/](https://matt-piggott.github.io/Numerical-methods-undergraduate/)

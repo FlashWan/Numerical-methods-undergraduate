@@ -126,5 +126,7 @@ To view the notebooks on Binder use the links below.
 
 ---
 
+Some guidance on interacting with Jupyer notebooks is here: [notebooks](https://matt-piggott.github.io/Numerical-methods-undergraduate/notebooks/)
+
 
 Back to main page: [https://matt-piggott.github.io/Numerical-methods-undergraduate/](https://matt-piggott.github.io/Numerical-methods-undergraduate/)

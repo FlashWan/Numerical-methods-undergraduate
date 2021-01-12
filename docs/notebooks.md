@@ -8,10 +8,12 @@ Links to the [Jupyter notebooks](http://jupyter.org/) making up this module can 
 
 To run and edit the notebooks yourselves we have several options:
 
+---
+
 ### Edit and run them locally using Anaconda
 It is possible to run everything on your desktop/laptop - this is a good option if you have firewall or internet issues. Anaconda should be installed on departmental machines. To install yourself look at [Anaconda](https://www.anaconda.com/download/) and choose Python 3.x. You can then download the notebooks from the github repo for this module and run them locally.  On Windows, to use Anaconda to run Jupyter notebooks search for 'Jupyter' and click on the 'Jupyter Notebook (Anaconda3)' app.
 
-<!-- #region -->
+---
 
 ### Using cloud based solutions - Google Colab
 
@@ -40,7 +42,8 @@ Google Colab (should) store your notebooks automatically, but it can never hurt 
 and then download a copy of the .ipynb file:
 
 `File -> Download .ipynb`
-<!-- #endregion -->
+
+---
 
 ### Viewing, editing and running on binder
 
@@ -54,5 +57,6 @@ Be aware though that your changes to cells won't be saved and you will lose chan
 
 `File -> Download as -> Notebook (.ipynb)`
 
+---
 
 Back to main page: [https://matt-piggott.github.io/Numerical-methods-undergraduate/](https://matt-piggott.github.io/Numerical-methods-undergraduate/)

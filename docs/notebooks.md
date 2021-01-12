@@ -15,7 +15,7 @@ It is possible to run everything on your desktop/laptop - this is a good option 
 
 ### Using cloud based solutions - Google Colab
 
-`Google Colab` is an option if you don't want to install Anaconda locally: [https://colab.research.google.com/notebooks/intro.ipynb](https://colab.research.google.com/notebooks/intro.ipynb).
+*Google Colab* is an option if you don't want to install Anaconda locally: [https://colab.research.google.com/notebooks/intro.ipynb](https://colab.research.google.com/notebooks/intro.ipynb).
 
 You will need to register for a Google Account - if you don't already have an account you can make a throwaway account if you do not want Google to have your data.
 

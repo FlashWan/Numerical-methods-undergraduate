@@ -15,7 +15,7 @@ It is possible to run everything on your desktop/laptop - this is a good option 
 
 ---
 
-### Using cloud based solutions - Google Colab
+### Using a cloud based solution - Google Colab
 
 *Google Colab* is an option if you don't want to install Anaconda locally: [https://colab.research.google.com/notebooks/intro.ipynb](https://colab.research.google.com/notebooks/intro.ipynb).
 
@@ -45,7 +45,11 @@ and then download a copy of the .ipynb file:
 
 ---
 
-### Viewing, editing and running on binder
+### Using Azure Lab Services
+
+---
+
+### Viewing (and editing and running with caveats) on binder
 
 Clicking on a link like the following
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FLecture-1-Numerical-methods-1.ipynb)

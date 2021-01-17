@@ -7,7 +7,7 @@ The GitHub link to this modules lecture material can be found here:
 [https://github.com/matt-piggott/Numerical-methods-undergraduate](https://github.com/matt-piggott/Numerical-methods-undergraduate).
 
 
-If you don't want to use Git to access the lectures, you can download individual lecture notebooks by clicking on the "Notebook file" links below, right clicking and choosing "Save as...", make sure the file as a .ipynb extension. 
+If you don't want to use Git to access the lectures, you can download individual lecture notebooks by clicking on the "Notebook file" links below, right clicking and choosing "Save as...", make sure the file has a .ipynb extension, you may need to change this yourself from .txt.  
 
 To view the notebooks on Binder use the links below.
 

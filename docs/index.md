@@ -16,7 +16,7 @@ For an up to date list of links to the lecture and associated material click her
 
 ### Pre-requisite knowledge
 
-Your year 1 `Introduction to Programming for Geoscientists module` is a prerequisite to taking this course. Please refer back to this to remind yourself of introductory information on Python.
+Your year 1 *Introduction to Programming for Geoscientists module* is a prerequisite to taking this course. Please refer back to this to remind yourself of introductory information on Python.
 
 You can also find some useful introductory Python material here 
 [ESE Primer](https://primer-computational-mathematics.github.io/book/b_coding/Intro%20to%20Python/intro.html).

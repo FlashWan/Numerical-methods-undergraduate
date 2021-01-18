@@ -14,9 +14,10 @@ Each lecture will cover:
 For an up to date list of links to the lecture and associated material click here: [lecture series](http://matt-piggott.github.io/Numerical-methods-undergraduate/lecture_series/).
 
 
-### Python
+### Pre-requisite knowledge
 
 Your year 1 `Introduction to Programming for Geoscientists module` is a prerequisite to taking this course. Please refer back to this to remind yourself of introductory information on Python.
+
 You can also find some useful introductory Python material here 
 [ESE Primer](https://primer-computational-mathematics.github.io/book/b_coding/Intro%20to%20Python/intro.html).
 
@@ -26,7 +27,7 @@ You can also find some useful introductory Python material here
 
 The lectures notes are written in [Jupyter notebook](https://jupyter.org/). This is a web-based interactive computational environment where you can combine code execution, text, mathematics, plots etc into a single document. 
 
-For some information on Jupyter notebooks see: [Jupyter notebooks](http://matt-piggott.github.io/Numerical-methods-undergraduate/notebooks/).
+For some information on Jupyter notebooks for this module specifically see: [Jupyter notebooks](http://matt-piggott.github.io/Numerical-methods-undergraduate/notebooks/).
 
 
 ### Supplementary material

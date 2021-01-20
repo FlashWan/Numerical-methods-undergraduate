@@ -27,7 +27,7 @@ To *view* the notebooks on Binder use the links below.
 
 **Solutions**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FLecture-2-Numerical-methods-1-Solutions.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FLecture-1-Numerical-methods-1-Solutions.ipynb)
 
 [Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Lecture-1-Numerical-methods-1-Solutions.ipynb)
 
@@ -129,7 +129,7 @@ To *view* the notebooks on Binder use the links below.
 
 ---
 
-#### Lecture 8: Revision 
+#### Lecture 8: Revision
 
 ---
 

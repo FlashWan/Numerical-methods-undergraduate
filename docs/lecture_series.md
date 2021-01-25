@@ -47,6 +47,9 @@ To *view* the notebooks on Binder use the links below.
 
 [Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Lecture-2-Numerical-methods-1-Solutions.ipynb)
 
+
+If you would like some additional, more challenging exercises, please look in the github repo.
+
 ---
 
 #### Lecture 3: Numerical integration.

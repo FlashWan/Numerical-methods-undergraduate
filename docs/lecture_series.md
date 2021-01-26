@@ -37,7 +37,7 @@ To *view* the notebooks on Binder use the links below.
 
 **Lecture**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FLecture-1-Numerical-methods-1.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FLecture-2-Numerical-methods-1.ipynb)
 
 [Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Lecture-2-Numerical-methods-1.ipynb)
 

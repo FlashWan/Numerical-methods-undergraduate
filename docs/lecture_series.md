@@ -130,11 +130,22 @@ If you would like some additional, more challenging exercises, please look in th
 
 [Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Lecture-7-Numerical-methods-1-Solutions.ipynb)
 
+
+**Some extra exercises**
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FLecture-7-Numerical-methods-1-extra-exercises.ipynb)
+
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Lecture-7-Numerical-methods-1-extra-exercises.ipynb)
+
+**Solutions to extra exercises**
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FLecture-7-Numerical-methods-1-extra-exercises-Solutions.ipynb)
+
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Lecture-7-Numerical-methods-1-extra-exercises-Solutions.ipynb)
+
 ---
 
-#### Lecture 8: Revision
 
----
 
 Some guidance on interacting with Jupyer notebooks is here: [notebooks](https://matt-piggott.github.io/Numerical-methods-undergraduate/notebooks/)
 
